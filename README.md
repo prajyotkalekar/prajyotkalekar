@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/prajyot_kalekar" target="blank"><img src="https://img.shields.io/twitter/follow/prajyot_kalekar?logo=twitter&style=for-the-badge" alt="prajyot_kalekar" /></a> </p>
 
-🌱 Learning Never Stops 🚀
+- 🌱 Learning Never Stops 🚀
 
-👨‍💻 Checkout my Personal Portfolio: (https://prajyotkalekar.github.io/Portfolio/)
+- 👨‍💻 Checkout my Personal Portfolio: <a href="https://prajyotkalekar.github.io/Portfolio/">Portfolio</a>
 
-💬 Ask me about **Web Development, MySQL**
+- 💬 Ask me about **Web Development, MySQL**
 
-😄 Pronouns: **He/His**
+- 😄 Pronouns: **He/His**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
