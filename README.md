@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm <span style="color:Red;">Prajyot Kalekar</span></h1>
+<h1 align="center">👋 Hi, I'm Prajyot Kalekar</h1>
 <h3 align="center">Aspiring Developer Embarking on a Coding Journey to Transform Ideas Into Digital Reality</h3>
 <img align="right" alt="Coding.." width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/prajyot_kalekar" target="blank"><img src="https://img.shields.io/twitter/follow/prajyot_kalekar?logo=twitter&style=for-the-badge" alt="prajyot_kalekar" /></a> </p>
 
-- 👨‍💻 Checkout my Personal Portfolio: (https://prajyotkalekar.github.io/Portfolio/)
+🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **Web Development, MySQL**
+👨‍💻 Checkout my Personal Portfolio: (https://prajyotkalekar.github.io/Portfolio/)
 
-- 😄 Pronouns: **He/His**
+💬 Ask me about **Web Development, MySQL**
+
+😄 Pronouns: **He/His**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
