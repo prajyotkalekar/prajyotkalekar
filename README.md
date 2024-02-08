@@ -9,7 +9,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 👨‍💻 Checkout my Personal Portfolio: <a href="https://prajyotkalekar.github.io/Portfolio/">Portfolio</a>
+- 👨‍💻 Checkout my Personal Portfolio: <a href="https://prajyotkalekar.github.io/Portfolio/" target="_blank">Portfolio</a>
 
 - 💬 Ask me about **Web Development, MySQL**
 
