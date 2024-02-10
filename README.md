@@ -19,7 +19,7 @@
 
 - 💪 This is where I write, code and solve problems:
 
-<p align="" style="margin-left:10px;">
+<p align="" style="margin-left:10;">
 <a href="https://github.com/prajyotkalekar" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="prajyot_kalekar" height="35" width="35"/>
 </a>
@@ -27,10 +27,7 @@
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
-<a href="https://twitter.com/prajyot_kalekar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"     
-  alt="prajyot_kalekar" height="30" width="40" />
-</a>
+<a href="https://twitter.com/prajyot_kalekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajyot_kalekar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prajyot kalekar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       
   alt="prajyot kalekar" height="30" width="40" />
