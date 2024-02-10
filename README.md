@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **Web Development, MySQL**
 
+- 📬 How to reach me: prkalekar1809@gmail.com
+
 - 😄 Pronouns: **He/His**
 
 <h3 align="left">Connect with me:</h3>
