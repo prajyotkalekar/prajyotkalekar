@@ -18,9 +18,9 @@
 - 😄 Pronouns: **He/His**
 
 - 💪 This is where I write, code and solve problems:
-<p align="left">
-<a href="https://github.com/prajyotkalekar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="prajyot_kalekar" height="40" width="40" /></a>
-</p>
+
+<a href="https://github.com/prajyotkalekar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="prajyot_kalekar" height="35" width="35" /></a>
+
   
 
 <h3 align="left">Connect with me:</h3>
