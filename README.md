@@ -17,7 +17,7 @@
 
 - 💪 This is where I write, code and solve problems:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/prajyotkalekar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="prajyot_kalekar" height="35" width="35"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/prajyotkalekar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="prajyot_kalekar" height="35" width="35"/></a>
 &nbsp;<a href="https://stackoverflow.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" alt="stack_overflow" height="35" width="35"/></a>
 
 <hr>
