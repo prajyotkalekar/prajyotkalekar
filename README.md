@@ -19,7 +19,7 @@
 
 - 💪 This is where I write, code and solve problems:
 
-<a href="https://github.com/prajyotkalekar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="prajyot_kalekar" height="35" width="35" /></a>
+<a href="https://github.com/prajyotkalekar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="prajyot_kalekar" height="35" width="35" style="margin-left:20px"/></a>
 
   
 
