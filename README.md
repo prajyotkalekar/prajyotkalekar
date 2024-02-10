@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hi👋, I'm Prajyot Kalekar</h1>
 <h3 align="center">Aspiring Developer Embarking on a Coding Journey to Transform Ideas Into Digital Reality</h3>
 <br>
