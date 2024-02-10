@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajyotkalekar&label=Profile%20views&color=0e75b6&style=flat" alt="prajyotkalekar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajyotkalekar" alt="prajyotkalekar" /></a> </p>
-
 <!-- <p align="left"> <a href="https://twitter.com/prajyot_kalekar" target="blank"><img src="https://img.shields.io/twitter/follow/prajyot_kalekar?logo=twitter&style=for-the-badge" alt="prajyot_kalekar" /></a> </p> -->
 
 - 🌱 Learning Never Stops 🚀
